@@ -9,6 +9,7 @@ object tutorial1 {
 		game.addVisual(nido)
 		game.addVisual(silvestre)
 		game.addVisualCharacter(pepita)
+		game.addVisual(alpiste)
 	}
 
 }

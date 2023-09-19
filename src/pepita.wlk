@@ -5,6 +5,9 @@ object pepita {
 
 	var property energia = 100
 	var property position = game.origin()
+	
+//	method energia() { return energia}
+//	method energia(numero){energia = numero }
 
 	method image() {
 		return if (self.estaEnElNido()) "pepita-grande.png" else "pepita.png"
